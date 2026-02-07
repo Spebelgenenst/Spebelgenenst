@@ -1,6 +1,6 @@
 <h2 align="left">Hai Hai :3</h2>
 
-<img align="right" height="150" src="https://github.com/Spebelgenenst/Spebelgenenst.github.io/blob/main/static/img/patpat.gif?raw=true"  />
+<img align="right" height="150" src="https://github.com/Spebelgenenst/Spebelgenenst.github.io/blob/main/static/img/petpet.gif?raw=true"  />
 
 ###
 
