@@ -1,7 +1,5 @@
 # Spebelgenenst's home
 
-<img src="https://github.com/Spebelgenenst/spebelgenenst/blob/main/Silly_Cat_spebell.png?raw=true" height="250" alt="Spebelgenenst">
-
 Hai Hai :3\
 My name is Spebell! I do not care about my pronouns.\
 I'm a dev and like open-sauce projects, gaming and technology.\
